@@ -1,2 +1,3 @@
-# capstone1
+# Thyroid Function Prediction Project
+
 ML Zoomcamp Capstone 1
