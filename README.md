@@ -1,5 +1,7 @@
 # Thyroid Function Prediction Project
 
+> Capstone project for the [DataTalks.Club Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp).
+
 Overview
 
 This project focuses on predicting thyroid function using a dataset of clinicopathologic features related to well-differentiated thyroid cancer from Kaggle (https://www.kaggle.com/datasets/zsinghrahulk/differentiated-thyroid-cancer-recurrence). The data was collected over a period of 15 years, with each patient being followed for at least 10 years. The goal is to use this dataset to develop a predictive model to assist healthcare providers in understanding and predicting thyroid cancer recurrence.
